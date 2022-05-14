@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "AditivLEDSystem",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
